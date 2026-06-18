@@ -25,7 +25,44 @@ This project combines cybersecurity concepts, problem-solving, and interactive g
 
 ## Current Status
 
-🚧 Currently In Development
+🚧 ## Development Roadmap
+
+### Phase 1 - Foundation
+- [x] Project Repository Created
+- [x] Initial Documentation
+- [x] Character Concepts
+- [x] Environment Concepts
+- [x] Screenshot Gallery
+
+### Phase 2 - Prototype
+- [ ] Main Menu
+- [ ] Character Movement
+- [ ] Interactive Objects
+- [ ] Puzzle System
+
+### Phase 3 - Cyber Challenges
+- [ ] Password Security Puzzle
+- [ ] Network Defense Puzzle
+- [ ] Threat Detection Challenge
+- [ ] Digital Forensics Challenge
+
+### Phase 4 - Release
+- [ ] Beta Testing
+- [ ] Bug Fixes
+- [ ] Public Demo
+## Technologies
+
+- GDevelop
+- GitHub
+- Markdown
+- Cybersecurity Concepts
+- Game Design
+- Digital Storytelling
+## Future Vision
+
+Storm's Cyber & Data: Escape Room is being designed as an educational cybersecurity experience that teaches real-world concepts through gameplay.
+
+Players will solve security challenges, investigate incidents, and learn cybersecurity principles while progressing through interactive missions.
 
 ## Learning Journey
 
