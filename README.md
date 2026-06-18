@@ -50,6 +50,31 @@ This project combines cybersecurity concepts, problem-solving, and interactive g
 - [ ] Beta Testing
 - [ ] Bug Fixes
 - [ ] Public Demo
+
+## Project Features
+
+### Planned Gameplay Features
+
+- Interactive cybersecurity challenges
+- Password security puzzles
+- Network defense simulations
+- Digital forensics investigations
+- Threat detection scenarios
+- Educational learning objectives
+- Progress tracking system
+- Multiple challenge rooms
+
+### Learning Objectives
+
+Players will learn:
+
+- Basic cybersecurity concepts
+- Network security fundamentals
+- Password best practices
+- Threat awareness
+- Critical thinking skills
+- Problem-solving techniques
+      
 ## Technologies
 
 - GDevelop
