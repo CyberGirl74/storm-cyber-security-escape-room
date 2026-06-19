@@ -33,3 +33,11 @@
 ## Avatar Asset
 
 ![Avatar Asset](Screenshot%202026-06-05%20094352.png)
+
+---
+
+## Storm Nexus Global Threat Monitor (Latest Build)
+
+The newest command center design for the Storm Cyber & Data Escape Room featuring global threat monitoring, network status dashboards, mission objectives, and personalized Storm branding.
+
+![Storm Nexus Global Threat Monitor](storm-nexus-command-center.png)
