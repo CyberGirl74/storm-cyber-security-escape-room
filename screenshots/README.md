@@ -38,6 +38,4 @@
 
 ## Storm Nexus Global Threat Monitor (Latest Build)
 
-The newest command center design for the Storm Cyber & Data Escape Room featuring global threat monitoring, network status dashboards, mission objectives, and personalized Storm branding.
-
-![Storm Nexus Global Threat Monitor](storm-nexus-command-center.png)
+![Storm Nexus Global Threat Monitor](Screenshot%202026-06-18%20195124.png)
